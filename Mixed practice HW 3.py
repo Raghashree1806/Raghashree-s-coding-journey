@@ -1,0 +1,25 @@
+word="Python" 
+print(word[-1],len(word))
+name="Deepak"
+print(name[0],name[-1],len(name))
+word="Hi"
+print(word*3)
+first="Good"
+second="Morning"
+print(first+" "+second)
+word="Programming"
+print(word[0],word[3],word[-1])
+city="Chennai"
+print(city,city[0],city[-1],len(city))
+a="Py"
+b="thon"
+result=a+b
+print(len(result))
+symbol="*"
+print(symbol*5)
+name="Ravi"
+city="Madurai"
+print(name,city)
+print(len(name),len(city))
+word="Python"
+print(word*2,word[0],word[-1],len(word))
